@@ -1,0 +1,51 @@
+# ===========================
+# Dependencies
+# ===========================
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# ===========================
+# Environment Variables (NEVER commit these - contain API keys!)
+# ===========================
+.env
+server/.env
+client/.env
+.env.local
+.env.production
+
+# ===========================
+# Build Output
+# ===========================
+client/dist/
+client/build/
+
+# ===========================
+# Logs
+# ===========================
+*.log
+npm-debug.log*
+logs/
+
+# ===========================
+# OS Files
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# Editor
+# ===========================
+.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# ===========================
+# Misc
+# ===========================
+.cache/
+coverage/
