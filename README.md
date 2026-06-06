@@ -25,7 +25,7 @@
 - **AI**: Llama 3.3 70B via Groq API (`llama-3.3-70b-versatile`)
 - **Styling**: Vanilla CSS (dark glassmorphism theme)
 
-#Architecture Diagram
+# Architecture Diagram
 ![Architecture](./Architecture.jpeg)
 ---
 
